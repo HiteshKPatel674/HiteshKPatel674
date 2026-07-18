@@ -78,7 +78,7 @@ I am currently exploring and building complex projects involving:
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" alt="Languages"/></a> |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,java,cpp" alt="Languages"/></a> |
 | **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi" alt="Backend"/></a> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend"/></a> |
 | **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases"/></a> |
