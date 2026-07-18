@@ -1,4 +1,9 @@
 <div align="center">
+
+<img src="assets/github-banner.png" width="100%" alt="GitHub Banner"/>
+
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Hitesh%20Kumar%20Patel&fontSize=52&fontColor=ffffff&stroke=ffffff&strokeWidth=1&color=0:0F172A,100:2563EB&animation=fadeIn&desc=Building%20Intelligent%20Software%20Systems%20with%20AI,%20LLMs,%20and%20Modern%20Backend%20Technologies&descSize=18&descAlignY=70" width="100%" />
 </div>
 <div align="center">
