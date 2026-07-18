@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hitesh-kumar-patel-63a39828a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/ZnRcPCHAzQ/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
 <br />
@@ -23,8 +22,7 @@ I have a strong interest in **Generative AI**, **Large Language Models (LLMs)**,
 
 I am currently exploring and building complex projects involving:
 
-- Designing robust **RAG Pipelines** and **AI Agents** using **LangChain**, **LangGraph**, and **CrewAI**.
-- Implementing the **Model Context Protocol (MCP)** for secure, structured agent-tool interactions.
+- Designing robust **RAG Pipelines** and **AI Agents** using **LangChain**, **LangGraph** and **LlamaIndex**.
 - Developing scalable REST APIs with **FastAPI** and **Django**.
 - Architecting high-performance asynchronous backends integrated with **PostgreSQL** and **Vector Databases** (Chroma, Pinecone).
 - Deploying containerized, cloud-native solutions using **Docker** and **AWS**.
@@ -47,13 +45,13 @@ I am currently exploring and building complex projects involving:
 #### 1. [HealthAI](https://github.com/HiteshKPatel674)
 > **Description:** A robust healthcare platform utilizing AI to streamline patient triage, symptom analysis, and clinical documentation.
 > 
-> **Technologies:** Python, FastAPI, React, PostgreSQL, LangChain, OpenAI.
+> **Technologies:** Python, FastAPI, React, PostgreSQL, LangChain, Gemini.
 > 
-> **Key Engineering Contributions:** Architected a secure, HIPAA-compliant data pipeline for processing unstructured medical text. Designed a custom RAG system to query medical literature efficiently.
+> **Key Engineering Contributions:** Architected a secure data pipeline for processing unstructured medical text. Designed a custom RAG system to query medical literature efficiently.
 > 
 > **Business Impact:** Significantly reduced administrative overhead for clinical staff and accelerated the initial patient assessment process.
 
-#### 2. [TripMind AI](https://github.com/HiteshKPatel674/TRIPMIND-AI)
+#### 2. [TripMind AI][OnGoing](https://github.com/HiteshKPatel674/TRIPMIND-AI)
 > **Description:** An intelligent, multi-provider travel architect that generates personalized, cinematic day-by-day itineraries.
 > 
 > **Architecture:** Django MVC backend paired with a vanilla JS/HTMX frontend, leveraging a sophisticated image retrieval waterfall and caching layer.
@@ -77,11 +75,11 @@ I am currently exploring and building complex projects involving:
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" alt="Languages"/></a> |
-| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" alt="Backend"/></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi" alt="Backend"/></a> |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend"/></a> |
-| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/></a> |
-| **Cloud & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,nginx" alt="Cloud"/></a> |
-| **OS & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,bash,vscode" alt="Tools"/></a> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases"/></a> |
+| **Cloud & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker" alt="Cloud"/></a> |
+
 
 <br>
 <details>
