@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/HiteshKPatel674/HiteshKPatel674/main/assets/github_banner.png" width="100%" alt="GitHub Banner"/>
 
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Hitesh%20Kumar%20Patel&fontSize=52&fontColor=ffffff&stroke=ffffff&strokeWidth=1&color=0:0F172A,100:2563EB&animation=fadeIn&desc=Building%20Intelligent%20Software%20Systems%20with%20AI,%20LLMs,%20and%20Modern%20Backend%20Technologies&descSize=18&descAlignY=70" width="100%" />
-</div>
+</div> -->
 <div align="center">
   <a href="https://www.linkedin.com/in/hitesh-kumar-patel-63a39828a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
