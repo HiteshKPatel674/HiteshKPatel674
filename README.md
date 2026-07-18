@@ -1,135 +1,139 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hitesh%20Patel&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+</div>
 
-# Hi there, I'm Hitesh Patel 👋
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+</div>
 
-### AI Engineer | Full-Stack Developer | Generative AI Enthusiast
+<br />
 
-Building intelligent software systems powered by **Large Language Models (LLMs)**, **AI Agents**, **Machine Learning**, and **Scalable Backend Architectures**.
+### About Me
 
+I am an AI Engineer passionate about solving real-world problems through scalable software systems. I specialize in bridging the gap between cutting-edge Artificial Intelligence research and robust production environments. My expertise lies in designing end-to-end architectures that leverage Machine Learning and advanced backend engineering to deliver high-performance applications.
+
+I have a strong interest in **Generative AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and building autonomous **Multi-Agent Systems**. By combining these technologies with modern **Cloud Technologies**, **Distributed Systems**, and **Full Stack Development**, I build intelligent automation systems that create measurable impact.
+
+---
+
+### Current Focus
+
+I am currently exploring and building complex projects involving:
+
+- Designing robust **RAG Pipelines** and **AI Agents** using **LangChain**, **LangGraph**, and **CrewAI**.
+- Implementing the **Model Context Protocol (MCP)** for secure, structured agent-tool interactions.
+- Developing scalable REST APIs with **FastAPI** and **Django**.
+- Architecting high-performance asynchronous backends integrated with **PostgreSQL** and **Vector Databases** (Chroma, Pinecone).
+- Deploying containerized, cloud-native solutions using **Docker** and **AWS**.
+
+---
+
+### Professional Highlights
+
+- ✔ **Built production-style AI applications** integrating sophisticated LLM reasoning and real-time data retrieval.
+- ✔ **Developed Full Stack applications** combining scalable Django backends with responsive React frontends.
+- ✔ **Experience integrating LLMs into real-world systems** with complex orchestration, memory management, and context windows.
+- ✔ **Strong Data Structures & Algorithms foundation**, ensuring optimized and highly efficient code.
+- ✔ **Passionate about Software Architecture**, emphasizing clean code, modular design, and maintainability.
+- ✔ **Building intelligent automation systems** that reduce manual overhead and improve decision-making processes.
+
+---
+
+### Featured Projects
+
+#### 1. [HealthAI](https://github.com/HiteshKPatel674)
+> **Description:** A robust healthcare platform utilizing AI to streamline patient triage, symptom analysis, and clinical documentation.
+> 
+> **Technologies:** Python, FastAPI, React, PostgreSQL, LangChain, OpenAI.
+> 
+> **Key Engineering Contributions:** Architected a secure, HIPAA-compliant data pipeline for processing unstructured medical text. Designed a custom RAG system to query medical literature efficiently.
+> 
+> **Business Impact:** Significantly reduced administrative overhead for clinical staff and accelerated the initial patient assessment process.
+
+#### 2. [TripMind AI](https://github.com/HiteshKPatel674/TRIPMIND-AI)
+> **Description:** An intelligent, multi-provider travel architect that generates personalized, cinematic day-by-day itineraries.
+> 
+> **Architecture:** Django MVC backend paired with a vanilla JS/HTMX frontend, leveraging a sophisticated image retrieval waterfall and caching layer.
+> 
+> **AI Components:** Uses advanced prompt engineering to synthesize structural travel data, budgeting, and geographical routing.
+> 
+> **Real-time APIs:** Integrates Google Hotels (via SerpApi), Nominatim (OpenStreetMap), and multiple high-resolution image providers.
+
+#### 3. [Agentic Research Assistant](https://github.com/HiteshKPatel674)
+> **Description:** An autonomous multi-agent system designed for deep semantic research and literature review.
+> 
+> **Architecture:** 
+> - **RAG & Vector Database:** Ingests large PDF corpuses into a vector store for rapid similarity search.
+> - **Embeddings & Semantic Search:** Utilizes high-dimensional embeddings to map conceptual relationships between research papers.
+> - **AI Agents:** Employs specialized worker agents (researcher, summarizer, critic) orchestrated via LangGraph to compile comprehensive reports with citations.
+
+---
+
+### Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" alt="Languages"/></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" alt="Backend"/></a> |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend"/></a> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases"/></a> |
+| **Cloud & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,nginx" alt="Cloud"/></a> |
+| **OS & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,bash,vscode" alt="Tools"/></a> |
+
+<br>
+<details>
+<summary><b>🧠 Machine Learning & Generative AI</b></summary>
+<br>
 <p>
-  <a href="https://github.com/HiteshKPatel674">
-    <img src="https://komarev.com/ghpvc/?username=HiteshKPatel674&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-
-  <a href="https://github.com/HiteshKPatel674?tab=followers">
-    <img src="https://img.shields.io/github/followers/HiteshKPatel674?label=Followers&style=social"/>
-  </a>
+  • LangChain • LangGraph • CrewAI • LlamaIndex<br>
+  • PyTorch • TensorFlow • Scikit-Learn • HuggingFace<br>
+  • ChromaDB • Pinecone • OpenAI API • Anthropic Claude
 </p>
+</details>
 
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiteshKPatel674&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshKPatel674&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshKPatel674&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HiteshKPatel674&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HiteshKPatel674&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-# About Me
+### Achievements & Continuous Learning
 
-I am an AI Engineer passionate about designing and developing intelligent software systems that solve real-world problems through Artificial Intelligence and modern software engineering.
-
-My interests lie at the intersection of **Generative AI**, **Backend Engineering**, and **Scalable Full-Stack Development**, where I enjoy transforming complex ideas into practical, production-oriented applications.
-
-I believe that Artificial Intelligence becomes truly impactful when combined with robust software architecture, maintainable code, and user-centric design.
-
----
-
-## Current Focus
-
-I'm currently exploring and building applications involving
-
-- Large Language Models (LLMs)
-- AI Agents
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- FastAPI
-- Django REST Framework
-- React
-- PostgreSQL
-- Docker
-- AWS Cloud Services
-- Vector Databases
-- Prompt Engineering
-- MCP (Model Context Protocol)
+- **Open Source Contributions:** Actively contributing to emerging AI tooling and frameworks.
+- **Technical Projects:** Successfully delivered scalable applications balancing complex AI workflows with low-latency APIs.
+- **Hackathons:** Thrives in high-pressure, rapid-prototyping environments.
+- **Learning Roadmap:** Currently deep-diving into Advanced RAG architectures, Knowledge Graphs, specialized Agentic workflows (LangGraph, CrewAI, MCP), Kubernetes orchestration, and large-scale System Design.
 
 ---
 
-# Professional Highlights
+<div align="center">
+  
+> *"I believe software should be scalable, maintainable, and solve meaningful problems. My goal is to bridge Artificial Intelligence with practical software engineering to build systems that create real impact."*
 
-- Developed end-to-end AI-powered web applications integrating LLMs with modern backend architectures.
-- Built full-stack applications using Django, Django REST Framework, React, and PostgreSQL.
-- Designed modular backend services following scalable software engineering principles.
-- Integrated external APIs, semantic search pipelines, and AI-assisted workflows into production-style applications.
-- Passionate about system design, backend development, and intelligent automation.
-- Strong foundation in Data Structures & Algorithms with continuous focus on writing clean, efficient, and maintainable code.
-
----
-
-# Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
-</p>
-
-## AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-**Frameworks & Technologies**
-
-- LangChain
-- LangGraph
-- Hugging Face Transformers
-- Google Gemini API
-- OpenAI API
-- CrewAI
-- Ollama
-- ChromaDB
-- RAG Pipelines
-- Prompt Engineering
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb"/>
-</p>
-
----
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
-</p>
-
----
-
-## Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
-</p>
-
----
-
-# Engineering Philosophy
-
-> *"Great software is not just about writing code—it is about designing systems that are scalable, maintainable, and capable of solving meaningful real-world problems. I strive to combine Artificial Intelligence with solid software engineering principles to build reliable and impactful applications."*
-
----
+</div>
