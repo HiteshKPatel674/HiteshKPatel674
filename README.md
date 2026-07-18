@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hitesh%20Kumar %20Patel&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hitesh%20Kumar%20Patel&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hitesh-kumar-patel-63a39828a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
