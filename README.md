@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hitesh%20Kumar%20Patel&fontSize=48&fontAlignY=35&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Generative%20AI%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Hitesh%20Kumar%20Patel&fontSize=52&fontColor=ffffff&stroke=ffffff&strokeWidth=1&color=0:0F172A,100:2563EB&animation=fadeIn&desc=Building%20Intelligent%20Software%20Systems%20with%20AI,%20LLMs,%20and%20Modern%20Backend%20Technologies&descSize=18&descAlignY=70" width="100%" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/hitesh-kumar-patel-63a39828a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +13,7 @@
 
 I am an AI Engineer passionate about solving real-world problems through scalable software systems. I specialize in bridging the gap between cutting-edge Artificial Intelligence research and robust production environments. My expertise lies in designing end-to-end architectures that leverage Machine Learning and advanced backend engineering to deliver high-performance applications.
 
-I have a strong interest in **Generative AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and building autonomous **Multi-Agent Systems**. By combining these technologies with modern **Cloud Technologies**, **Distributed Systems**, and **Full Stack Development**, I build intelligent automation systems that create measurable impact.
+I have a strong interest in **Generative AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and building autonomous **Multi-Agent Systems**.I enjoy building scalable software systems that integrate Artificial Intelligence, cloud technologies, and modern web development to deliver practical, reliable, and user-centric solutions.
 
 ---
 
