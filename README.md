@@ -55,7 +55,7 @@ I am currently exploring and building complex projects involving:
 > 
 > **Business Impact:** Significantly reduced administrative overhead for clinical staff and accelerated the initial patient assessment process.
 
-#### 2. [TripMind AI][OnGoing](https://github.com/HiteshKPatel674/TRIPMIND-AI)
+#### 2. [TripMind AI](https://github.com/HiteshKPatel674/TRIPMIND-AI){Ongoing}
 > **Description:** An intelligent, multi-provider travel architect that generates personalized, cinematic day-by-day itineraries.
 > 
 > **Architecture:** Django MVC backend paired with a vanilla JS/HTMX frontend, leveraging a sophisticated image retrieval waterfall and caching layer.
